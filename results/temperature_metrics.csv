@@ -1,0 +1,13 @@
+Model,Temperature,Unique word ratio,Repetition rate
+BiRNN,0.5,0.782,0.0
+BiRNN,1.0,0.846,0.0
+BiRNN,1.5,0.872,0.0
+GRU,0.5,0.72,0.038
+GRU,1.0,0.871,0.013
+GRU,1.5,0.897,0.0
+LSTM,0.5,0.693,0.014
+LSTM,1.0,0.796,0.013
+LSTM,1.5,0.871,0.0
+SimpleRNN,0.5,0.679,0.026
+SimpleRNN,1.0,0.782,0.014
+SimpleRNN,1.5,0.886,0.0

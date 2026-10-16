@@ -1,0 +1,5 @@
+Model,Test loss,Perplexity,Accuracy,Training time (s)
+SimpleRNN,5.876,356.438,0.134,42.888
+BiRNN,6.331,561.984,0.118,51.687
+LSTM,5.606,272.173,0.15,64.937
+GRU,5.668,289.465,0.143,61.183
